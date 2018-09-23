@@ -19,7 +19,6 @@ public class PyramidBuilder {
      */
 
     public int[][] buildPyramid(List<Integer> inputNumbers) throws CannotBuildPyramidException {
-        // TODO : Implement your solution here
         this.check(inputNumbers.size());
         for (Object element : inputNumbers) {
             if (element == null) throw new CannotBuildPyramidException();
