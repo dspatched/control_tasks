@@ -12,7 +12,7 @@ The exam includes 3 tasks to be done: [Calculator](/tasks/Calculator.md), [Pyram
 ### Result ###
 
 * Author name : {ILYA DUDKIN}
-* Codeship : {PUT YOUR CODESHIP BAGDE HERE}
+* Codeship : {https://app.codeship.com/projects/76537f00-a18e-0136-4ee0-66465846d0b3/status?branch=master}
 
 ### How to start?  ###
 * Install [GIT](https://git-scm.com/) and [Maven](https://maven.apache.org)
